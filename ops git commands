@@ -1,0 +1,7 @@
+git add .
+git init
+git clone
+git fork
+git merge
+git push
+git pull
